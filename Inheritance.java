@@ -1,5 +1,7 @@
 package Day13;
 
+//hierarical inheritance
+
  class Animal {
 	 void makeSound()
 	 {
